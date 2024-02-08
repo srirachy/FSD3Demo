@@ -1,2 +1,2 @@
 hello world
-conflict modified
+conflict modified changed
